@@ -2335,7 +2335,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "SMK Kuching High",
+  "name": "SMK Kuching High 360° VR - 2023",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
